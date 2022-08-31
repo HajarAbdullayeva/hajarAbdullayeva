@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hajar Abdullayea</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 💬 Ask me about **React, JS, Node.js**
+- 💬 Ask me about **Java, JS, React.js, Node.js**
 
 - 📫 How to reach me **hadjar.abdullayeva@gmail.com**
 
