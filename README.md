@@ -26,4 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajarabdullayeva&show_icons=true&locale=en&layout=compact" alt="hajarabdullayeva" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajarabdullayeva&show_icons=true&locale=en" alt="hajarabdullayeva" /></p>
