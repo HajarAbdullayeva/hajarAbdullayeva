@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajarabdullayeva" alt="hajarabdullayeva" /></a> </p>
 
 
-- 💬 Ask me about **Java, JS, React.js, Node.js**
+- 💬 Ask me about **Java, TS, JS, React.js, Node.js**
 
 - 📫 How to reach me **hadjar.abdullayeva@gmail.com**
 
