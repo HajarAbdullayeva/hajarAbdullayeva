@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hajar Abdullayea</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajarabdullayeva" alt="hajarabdullayeva" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajarabdullayeva" alt="hajarabdullayeva" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 - 💬 Ask me about **Java, TS, JS, React.js, Node.js**
 
