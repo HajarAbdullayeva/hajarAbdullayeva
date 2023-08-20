@@ -25,5 +25,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajarabdullayeva&show_icons=true&locale=en&layout=compact" alt="hajarabdullayeva" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
